@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bottom_main_margin">65dp</dimen>
+    <dimen name="margin_all">16dp</dimen>
+    <dimen name="margin_half_all">8dp</dimen>
+    <dimen name="title_font_size">20sp</dimen>
+    <dimen name="text_font_all">15sp</dimen>
+    <dimen name="padding_all">30dp</dimen>
+</resources>
